@@ -1,0 +1,16 @@
+{
+    "name": "com.sleepyape.simplejson",
+    "version": "1.0.0",
+    "displayName": "SimpleJSON",
+    "description": "UPM Version of https://github.com/Bunny83/SimpleJSON",
+    "unity": "2019.4",
+    "keywords": [
+        "simplejson",
+        "json"
+    ],
+    "author": {
+        "name": "Angga Permana",
+        "email": "sleepyape0@gmail.com",
+        "url": "https://github.com/sleepyape1"
+    }
+}
